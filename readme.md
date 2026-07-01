@@ -1,6 +1,6 @@
 # Olá, sou Marcelo 👋
 
-Engenheiro Eletricista com foco em **análise de dados**, **confiabilidade industrial** e **manutenção preditiva**. Gosto de trabalhar na interface entre engenharia e dados — entender o problema físico antes de modelá-lo.
+Engenheiro Eletricista com foco em **análise de dados**, **confiabilidade industrial** e **manutenção preditiva**. Gosto de trabalhar na interface entre engenharia e dados, entender o problema físico antes de modelá-lo.
 
 ## Projetos
 

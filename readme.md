@@ -4,7 +4,7 @@ Engenheiro Eletricista com foco em **análise de dados**, **confiabilidade indus
 
 ## Projetos
 
-**[🔧 Manutenção Preditiva — NASA CMAPSS](https://github.com/Marcelao98/nasa-cmapss-rul)**
+**[🔧 Manutenção Preditiva — NASA CMAPSS](https://github.com/Marcelao98/data-notebooks/tree/main/nasa-cmapss-rul)**
 Série completa sobre predição de Vida Útil Remanescente (RUL) de motores turbofan: EDA com métricas PHM, análise de sobrevivência (Kaplan-Meier, Weibull), feature engineering, XGBoost com SHAP e LSTM.
 
 **[⚡ Análise do Consumo de Energia Elétrica no Brasil](https://github.com/Marcelao98/data-notebooks/tree/main/EDA_CONSUMO_ENERGIA)**
